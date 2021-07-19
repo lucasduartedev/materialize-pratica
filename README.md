@@ -12,6 +12,7 @@ Para aplicar cores aos texto basta adicionar a sua _class_ o nome da cor seguido
 
 > white-text | blue-text | purple-text
 
+
 _Exemplo:_
 ``` HTML
     <div>
@@ -56,7 +57,7 @@ _Exemplo para texto:_
 
 Propiedade para aplicar sombra: __.z-depth-3__
 
-Seu valor vai de '0' a '5' e o valor padrão '1'.
+Seu valor vai de '0' a '5'. O valor '1' é definido como valor padrão.
 
 Neste projeto foi aplicado sombra de nível 3 ao cabeçalho.
 
